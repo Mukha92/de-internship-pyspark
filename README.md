@@ -1,4 +1,11 @@
-# Retail Store Sales Data Analysis Project
+# Retail Data Quality & Analytics (PySpark)
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Retail](https://img.shields.io/badge/Industry-Retail-009688?style=for-the-badge)
+
+**Central Implementation File:** [`pyspark_project.ipynb`](./pyspark_project.ipynb)
 
 ## Исходные данные
 
@@ -69,3 +76,5 @@
 
 #### 4.4. Признаки клиента
 Рассчитайте customer_lifetime_value (CLV) для каждого клиента как общую сумму (Total Spent), потраченную этим клиентом за все транзакции. Выведите Топ-10 клиентов по их CLV (customer_id и их CLV).
+
+## Реализация 
