@@ -5,7 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Retail](https://img.shields.io/badge/Industry-Retail-009688?style=for-the-badge)
 
-**Весь проект здесь →** [`pyspark_project.ipynb`](./pyspark_project.ipynb)
+**Проект →** [`pyspark_project.ipynb`](./pyspark_project.ipynb)
 
 ## Исходные данные
 
